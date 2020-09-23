@@ -1,1 +1,3 @@
-Platform device drivers for the NXP iMX8MQ
+# imx8mq
+
+Platform drivers for the NXP i.MX8QM SoC.
